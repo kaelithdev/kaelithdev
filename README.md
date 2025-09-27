@@ -12,9 +12,6 @@ Hi, I’m Kealith 👋<br>I love building things that bring people together — 
 ![](https://nirzak-streak-stats.vercel.app/?user=kaelithdev&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaelithdev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaelithdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
