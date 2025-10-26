@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Kealith 👋<br>I love building things that bring people together — especially through code. What fascinates me most is how a simple idea can grow into a project that others can use, enjoy, or even build upon.<br><br>Most of my work revolves around Discord bots and small tools for communities, but I’m always exploring new technologies and ways to improve. For me, coding isn’t just about solving problems — it’s about creating something meaningful out of nothing but imagination and logic.<br><br>Outside of coding, I spend a lot of time shaping ideas, testing concepts, and figuring out how to turn “what if?” into something real.
+Hi, I’m Kaelith 👋<br>I love building things that bring people together — especially through code. What fascinates me most is how a simple idea can grow into a project that others can use, enjoy, or even build upon.<br><br>Most of my work revolves around Discord bots and small tools for communities, but I’m always exploring new technologies and ways to improve. For me, coding isn’t just about solving problems — it’s about creating something meaningful out of nothing but imagination and logic.<br><br>Outside of coding, I spend a lot of time shaping ideas, testing concepts, and figuring out how to turn “what if?” into something real.
 
 
 ## 🌐 Socials:
